@@ -56,60 +56,60 @@ Decline: Reddet
 
 # Learn
 Load: Yükle
-Variations and comments will be removed. To keep them, load a RAV Movetext instead: Variations and comments will be removed. To keep them, load a RAV Movetext instead
-Enter a movetext: Enter a movetext
-Variations and comments will be kept. To remove them, load a SAN Movetext instead: Variations and comments will be kept. To remove them, load a SAN Movetext instead
+Variations and comments will be removed. To keep them, load a RAV Movetext instead: Varyasyonlar ve yorumlar kaldırılacaktır. Bunları tutmak için yerine bir RAV Metintaşı yükleyin
+Enter a movetext: Bir metintaşı girin
+Variations and comments will be kept. To remove them, load a SAN Movetext instead: Varyasyonlar ve yorumlar saklanacaktır. Bunları kaldırmak için yerine bir SAN Metintaşı yükleyin
 
 # Openings
-Select an ECO code: Select an ECO code
-Flank Openings: Flank Openings
-Semi-Open Games other than the French Defense: Semi-Open Games other than the French Defense
-Open Games and the French Defense: Open Games and the French Defense
-Closed Games and Semi-Closed Games: Closed Games and Semi-Closed Games
-Indian Defenses: Indian Defenses
-Movetext: Movetext
-Search: Search
+Select an ECO code: Bir ECO kodu seçin
+Flank Openings: Flank Açılışları
+Semi-Open Games other than the French Defense: Yarı-Açık Oyunlar (Fransız Defansı harici)
+Open Games and the French Defense: Açık Oyunlar ve Fransız Defansı
+Closed Games and Semi-Closed Games: Kapalı ve Yarı-Kapalı Oyunlar
+Indian Defenses: Hint Defansları
+Movetext: Metintaşı
+Search: Ara
 
 # Training
-Select a checkmate: Select a checkmate
-Random: Random
-King and queen and rook vs. king and rook: King and queen and rook vs. king and rook
-King and queen vs. king: King and queen vs. king
-King and rook vs. king: King and rook vs. king
-King and two bishops vs. king: King and two bishops vs. king
-King and bishop and knight vs. king: King and bishop and knight vs. king
-Select an endgame: Select an endgame
-Pawn endgame: Pawn endgame
+Select a checkmate: Bir Şah-Mat seçin
+Random: Rastgele
+King and queen and rook vs. king and rook: Şah, vezir ve kale vs. şah ve kale
+King and queen vs. king: Vezir ve şah vs. vezir
+King and rook vs. king: Vezir ve kale vs. vezir
+King and two bishops vs. king: Vezir ve iki fil vs. vezir
+King and bishop and knight vs. king: Vezir, fil ve at vs. vezir
+Select an endgame: Bir oyun sonu seçin
+Pawn endgame: Piyon oyun sonu
 
 # Database
-Loading: Loading
-Click on the Search button, and find up to 25 random games matching the search criteria: Click on the Search button, and find up to 25 random games matching the search criteria
-Event: Event
-Year: Year
-White: White
-Black: Black
-Result: Result
-Click on an ECO code, and find a random game matching the search criteria: Click on an ECO code, and find a random game matching the search criteria
+Loading: Yükleniyor
+Click on the Search button, and find up to 25 random games matching the search criteria: Ara düğmesine tıklayın ve arama kriterlerine uyan 25 adede kadar rastgele oyun bulun
+Event: Etkinlik
+Year: Yıl
+White: Beyaz
+Black: Siyah
+Result: Sonuç
+Click on an ECO code, and find a random game matching the search criteria: Bir ECO koduna tıklayın ve arama kriterlerine uyan rastgele bir oyun bulun
 
 # Edit
-Player's turn: Player's turn
-Select an option: Select an option
-White's castling: White's castling
-Black's castling: Black's castling
-En passant: En passant
-Starting Position: Starting Position
-Clear Board: Clear Board
+Player's turn: Oyuncunun sırası
+Select an option: Bir seçenek seçin
+White's castling: Beyaz'ın rok atması
+Black's castling: Siyah'ın rok atması
+En passant: Geçerken Almak
+Starting Position: Başlangıç Pozisyonu
+Clear Board: Tahtayı Temizle
 
 # Clubs
-Find chess players all over the Internet and improve your chess skills. Have fun!: Find chess players all over the Internet and improve your chess skills. Have fun!
+Find chess players all over the Internet and improve your chess skills. Have fun!: İnternetin her yerinde satranç oyuncularını bulun ve satranç becerilerinizi geliştirin. İyi eğlenceler!
 Platform: Platform
-Description: Description
-Join: Join
-Add a space: Add a space
+Description: Açıklama
+Join: Katıl
+Add a space: Boşluk Ekle
 
 # Blog
-ChesslaBlab's Blog: ChesslaBlab's Blog
-Discover stories about your favorite topics: Discover stories about your favorite topics
+ChesslaBlab's Blog: ChesslaBlab'ın Blogu
+Discover stories about your favorite topics: Favori konularınızla ilgili hikayeleri keşfedin
 
 # Partial templates
 Board: Tahta
@@ -124,7 +124,7 @@ Resign: Çekil
 Offer Rematch: Rövanş Teklif Et
 Study: Çalış
 Download Image: Görüntüyü İndir
-Download Video: Videoyı İndir
+Download Video: Videoyu İndir
 Heuristic Charts: Sezgisel Grafikler
 Explain Position: Konumu Açıkla
 Soon available! Please be patient: Yakında kullanılabilir! Lütfen sabırlı olun
@@ -139,5 +139,5 @@ Inline: Satır içinde
 Table: Tablo
 Notation: Gösterim
 Figurine Algebraic Notation (FAN): Figürlü Cebirsel Gösterim (FCG)
-Standard Algebraic Notation (SAN): Ölçünlü Cebirsel Gösterim (ÖCG)
+Standard Algebraic Notation (SAN): Ölçünlü (Standart) Cebirsel Gösterim (ÖCG)
 Piece set: Taş Takımı
